@@ -11,6 +11,8 @@ This script will explore all folder, sub-folders and sub-sub-sub----folders (I t
 ### Hold up, What's a description?
 Well, a description is something we use to identify files. Look at the example below :
 
+![image-usage](images/sample_use.png)
+
 These are the parameters and their explanations :
 ```
 Base Path : Path in which will cover all folders and files (in it).
